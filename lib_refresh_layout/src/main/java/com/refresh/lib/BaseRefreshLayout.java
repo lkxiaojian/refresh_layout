@@ -4,9 +4,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 
-/**
- * Description: <BaseRefreshLayout><br>
- */
+
 public abstract class BaseRefreshLayout extends SuperSwipeRefreshLayout {
     private boolean isEnableRefresh = true;//是否启用下拉刷新
     private boolean isEnableLoadMore = true;//是否启用上拉加载更多

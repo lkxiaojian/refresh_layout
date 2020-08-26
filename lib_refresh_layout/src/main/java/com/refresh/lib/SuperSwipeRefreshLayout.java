@@ -38,9 +38,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
 /**
- * @Author Zheng Haibo
- * @PersonalWebsite http://www.mobctrl.net
- * @Description 自定义CustomeSwipeRefreshLayout<br>
  * 支持下拉刷新和上拉加载更多<br>
  * 非侵入式，对原来的ListView、RecyclerView没有任何影响,用法和SwipeRefreshLayout类似。<br>
  * 可自定义头部View的样式，调用setHeaderView方法即可 <br>

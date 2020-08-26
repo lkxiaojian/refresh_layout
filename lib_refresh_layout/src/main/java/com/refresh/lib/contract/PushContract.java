@@ -2,10 +2,6 @@ package com.refresh.lib.contract;
 
 /**
  * Description: <上拉加载更多的协议><br>
- * Author:      mxdl<br>
- * Date:        2019/2/25<br>
- * Version:     V1.0.0<br>
- * Update:     <br>
  */
 public interface PushContract {
     /**
